@@ -48,51 +48,56 @@ title = "PentaPod"
 
   [[params.team.item]]
     name = "Anna Kondylis"
-    position = "God Emperor"
+    position = "???"
     description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
     img = "images/anna.jpg"
 
   [[params.team.item]]
     name = "Audrey Kost"
-    position = "Lord Ruler"
-    description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
+    position = "Founder"
+    description = "I like to geocache and play harp. In my free time, I play with my dog and cat! I’m a junior in high school and I’m passionate about history and literature."
     img = "images/audrey.jpg"
 
   [[params.team.item]]
+    name = "Megan Fong"
+    position = "???"
+    description = "I love dancing everyday, as well as playing the flute and piccolo. I'm a sophomore in high school and am passionate about languages and the sciences."
+    img = "images/megan.jpg"
+
+  [[params.team.item]]
     name = "Natalie Avida"
-    position = "Seargent Jumpfish"
-    description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
+    position = "Legal and User Outreach Lead"
+    description = "I love to row, bake sweets and goodies, and make any kinds of food. I’m a sophomore in high school and passionate about biology and computer science."
     img = "images/natalie.jpg"
 
   [[params.team.item]]
     name = "Nikhil Patel"
-    position = "Seargent Jumpfish"
-    description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
+    position = "Design Team Member?"
+    description = "I enjoy playing guitar and designing things in my free time. I am a sophomore in high school, and am passionate about architecture and engineering."
     img = "images/nikhil.jpg"
 
   [[params.team.item]]
     name = "Noah Howard"
-    position = "Seargent Jumpfish"
-    description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
+    position = "Digital Media Lead"
+    description = "I play music and I love to spend time outdoors. I enjoy working with digital media and videography. I’m a sophomore in high school and passionate about history."
     img = "images/noah.jpg"
 
   [[params.team.item]]
     name = "Sanam Yusuf"
-    position = "Seargent Jumpfish"
-    description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
+    position = "Outreach and Communications Lead"
+    description = "I love to play soccer and be outdoors, I’m a sucker for good food and chocolate. I'm a junior in high school and passionate about languages and history."
     img = "images/sanam.jpg"
 
   [[params.team.item]]
     name = "Sanjana Vissapragada"
-    position = "Seargent Jumpfish"
-    description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
+    position = "???"
+    description = "I love to play squash and bake in my freetime. I am a sophmore in high school and passionate about history and engineering & fabrication."
     img = "images/sanjana.jpg"
 
   [[params.team.item]]
     name = "Shiley Einav"
-    position = "Seargent Jumpfish"
-    description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
-    img = "images/shiley.jpg"
+    position = "Fabrication Lead"
+    description = "I enjoy playing with my dog and I love Fantasy Football! I’m a junior in high school and passionate about engineering and fabrication."
 
   # [[params.team.item]]
   #   name = "Blue Fish"
