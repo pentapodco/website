@@ -49,7 +49,7 @@ title = "PentaPod"
   [[params.team.item]]
     name = "Anna Kondylis"
     position = "???"
-    description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
+    description = "I participate in Varsity Debate and love volunteering my time to tutor others. I  also run cross country in my free time. I’m a sophomore in high school and I’m passionate about public speaking."
     img = "images/anna.jpg"
 
   [[params.team.item]]
@@ -60,7 +60,7 @@ title = "PentaPod"
 
   [[params.team.item]]
     name = "Megan Fong"
-    position = "???"
+    position = ""
     description = "I love dancing everyday, as well as playing the flute and piccolo. I'm a sophomore in high school and am passionate about languages and the sciences."
     img = "images/megan.jpg"
 
@@ -72,7 +72,7 @@ title = "PentaPod"
 
   [[params.team.item]]
     name = "Nikhil Patel"
-    position = "Design Team Member?"
+    position = "Design Team Member"
     description = "I enjoy playing guitar and designing things in my free time. I am a sophomore in high school, and am passionate about architecture and engineering."
     img = "images/nikhil.jpg"
 
@@ -90,7 +90,7 @@ title = "PentaPod"
 
   [[params.team.item]]
     name = "Sanjana Vissapragada"
-    position = "???"
+    position = ""
     description = "I love to play squash and bake in my freetime. I am a sophmore in high school and passionate about history and engineering & fabrication."
     img = "images/sanjana.jpg"
 
