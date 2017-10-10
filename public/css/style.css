@@ -404,10 +404,10 @@ p {
     float: none;
   }
 }
-
 .fh5co-grid {
   padding-left: 2em;
 }
+
 @media screen and (max-width: 768px) {
   .fh5co-grid {
     padding-left: 0em;
@@ -482,6 +482,7 @@ p {
   color: #69c2c8;
   border-bottom: 1px solid #69c2c8;
 }
+
 @media screen and (max-width: 480px) {
   .fh5co-tabs-container .fh5co-tabs li {
     width: 100% !important;
@@ -714,7 +715,7 @@ p {
 }
 #fh5co-team .person {
   padding: 30px;
-  margin-bottom: 30px;
+  margin-bottom: 40px;
   text-align: center;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;

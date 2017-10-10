@@ -6312,9 +6312,10 @@ button.list-group-item-danger.active:focus {
 .embed-responsive {
   position: relative;
   display: block;
+  margin: 0 0 30px 0;
   height: 0;
   padding: 0;
-  overflow: hidden;
+  overflow: visible;
 }
 .embed-responsive .embed-responsive-item,
 .embed-responsive iframe,
@@ -6322,6 +6323,7 @@ button.list-group-item-danger.active:focus {
 .embed-responsive object,
 .embed-responsive video {
   position: absolute;
+  margin-top: 40px;
   top: 0;
   left: 0;
   bottom: 0;
