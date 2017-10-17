@@ -22,13 +22,19 @@ a {
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
+  font-family: 'Oswald', sans-serif;
 }
 a:hover, a:focus, a:active {
   color: #3da1a7;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h4, h5, h6 {
   font-family: "Open Sans", Arial, sans-serif;
+  color: #000;
+  margin-bottom: 30px;
+}
+h1, h2, h3 {
+  font-family: 'Oswald', sans-serif;
   color: #000;
   margin-bottom: 30px;
 }
@@ -715,7 +721,7 @@ p {
 }
 #fh5co-team .person {
   padding: 30px;
-  margin-bottom: 30px;
+  margin-bottom: 40px;
   text-align: center;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
