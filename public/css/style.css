@@ -224,7 +224,8 @@ p {
 }
 #fh5co-home .fh5co-copy {
   display: table;
-  width: 100%;
+  width: 75%;
+  margin: 0 auto;
 }
 #fh5co-home .fh5co-copy-inner {
   display: table-cell;
