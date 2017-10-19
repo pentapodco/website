@@ -1428,13 +1428,14 @@ figure {
 }
 
 img {
-  vertical-align: middle;
+	margin: auto;
+	vertical-align: middle;
 }
 
 .img-responsive {
-  display: block;
-  max-width: 100%;
-  height: auto;
+	display: block;
+	max-width: 49px;
+	height: auto;
 }
 
 .img-rounded {
@@ -1929,13 +1930,19 @@ pre code {
   max-height: 340px;
   overflow-y: scroll;
 }
-
+.container1 {
+  margin-right: auto;
+  margin-left: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+}
 .container {
   margin-right: auto;
   margin-left: auto;
   padding-left: 15px;
   padding-right: 15px;
 }
+
 .container:before, .container:after {
   content: " ";
   display: table;
@@ -1944,7 +1951,7 @@ pre code {
   clear: both;
 }
 @media (min-width: 768px) {
-  .container {
+  .container, .container1 {
     width: 750px;
   }
 }
@@ -1954,7 +1961,7 @@ pre code {
   }
 }
 @media (min-width: 1200px) {
-  .container {
+  .container, .container1 {
     width: 1170px;
   }
 }
@@ -2206,7 +2213,10 @@ pre code {
   }
 
   .col-sm-1 {
-    width: 8.33333%;
+    width: 65px;
+	height: 65px;
+	padding-right: 0;
+	padding-left: 0;
   }
 
   .col-sm-2 {

@@ -1196,3 +1196,14 @@ p {
 }
 
 /*# sourceMappingURL=style.css.map */
+#logo {
+	display: block;
+	margin-right: 0px;
+	margin-left: 0px;
+	min-width: 50px;
+	min-height: 50px;
+	max-width: 400px;
+	max-height: 400px;
+	padding-bottom: 80px;
+	padding-top: 40px;
+}
