@@ -224,7 +224,8 @@ p {
 }
 #fh5co-home .fh5co-copy {
   display: table;
-  width: 100%;
+  width: 50%;
+  margin: 0 auto;
 }
 #fh5co-home .fh5co-copy-inner {
   display: table-cell;
@@ -1196,3 +1197,14 @@ p {
 }
 
 /*# sourceMappingURL=style.css.map */
+#logo1 {
+	display: block;
+	margin-left: 0 auto;
+	margin-right: 0 auto;
+	opacity: 50%;
+	margin-bottom: 20px;
+	width: auto;
+	max-width: 40%;
+	height: auto;
+	
+}
