@@ -40,7 +40,7 @@ h1, h2, h3 {
 }
 
 p {
-  font-family: 'Oswald', sans-serif;
+  font-family: "Open Sans", Arial, sans-serif;
   margin-bottom: 30px;
 }
 
@@ -238,10 +238,11 @@ p {
   padding: 0;
 }
 #fh5co-home .fh5co-copy-inner h1 {
-  color: #ccc;
+  color: #FEDCAF;
   font-size: 55px;
   margin-bottom: 20px;
   vertical-align: middle;
+  line-height: 1.2;
   line-height: 1.2;
   font-weight: 400;
 }
